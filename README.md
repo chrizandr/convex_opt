@@ -15,7 +15,7 @@ source .convex_opt/bin/activate
 ```
 Install **cvxopt**
 ```
-pip install cvxopt
+pip install cvxopt cvxpy
 ```
 
 Enjoy :)
