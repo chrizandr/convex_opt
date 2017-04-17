@@ -13,7 +13,7 @@ Activate the environment
 ```
 source .convex_opt/bin/activate
 ```
-Install **cvxopt**
+Install **cvxopt** and **cvxpy**
 ```
 pip install cvxopt cvxpy
 ```
